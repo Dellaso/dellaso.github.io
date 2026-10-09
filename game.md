@@ -4,8 +4,5 @@ title: Games
 permalink: /game/
 ---
 
-## Games
 - 🏀 **[ColorBalls](https://dellaso.github.io/game_balls/)**  - a little game: bomb in colors
-      <div class="date">
-        {{ post.date | date: "%B %e, %Y" }}
-      </div>
+
